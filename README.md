@@ -119,14 +119,7 @@ The **Mall Customer Dataset** contains 200 records with these columns:
 
 ---
 
-## 💼 Use Cases
 
-- ✅ Internship project demonstration
-- ✅ GitHub / LinkedIn portfolio piece
-- ✅ Resume line: *"Built end-to-end ML dashboard for customer segmentation"*
-- ✅ Data science learning reference
-
----
 
 ## 📄 License
 
