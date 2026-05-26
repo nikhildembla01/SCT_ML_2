@@ -64,8 +64,8 @@ customer_segmentation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
-cd customer-segmentation
+[git clone https://github.com/yourusername/customer-segmentation.git
+cd customer-segmentation](https://github.com/nikhildembla01/SCT_ML_2)
 ```
 
 ### 2. Install dependencies
